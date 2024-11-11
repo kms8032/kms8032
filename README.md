@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 김민석</h1>
+<h1 align="center">Hi 👋, I'm 1412</h1>
 <h3 align="center">I am a student who is learning AI software at Youngjin University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kms8032&label=Profile%20views&color=0e75b6&style=flat" alt="kms8032" /> </p>
