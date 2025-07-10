@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Parking-control-system/Parking-control-system-Frontend](https://github.com/Parking-control-system/Parking-control-system-Frontend)
+- 👨‍💻 All of my projects are available at [https://github.com/Parking-control-system/Parking-control-system-Frontend](https://github.com/Parking-control-system)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
